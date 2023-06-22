@@ -6,7 +6,8 @@
 #import "ColumnSplitedString.h"
 #import "PrintColumnBleWriteDelegate.h"
 #import "ImageUtils.h"
-#import "ZXingObjC.h"
+//#import "ZXingObjC/ZXingObjC.h"
+#import "ZXingObjC-3.2.2/ZXingObjC/ZXingObjC.h"
 #import "PrintImageBleWriteDelegate.h"
 @implementation RNBluetoothEscposPrinter
 
